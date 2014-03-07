@@ -7,7 +7,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ---
 ## Escoja su camino
 
-### Iniciar con ...
+### [Iniciar con ...](https://github.com/son0p/introduccionChucK/blob/master/README.md#iniciar-con--1)
 ### Fortalezas
 ### Soluciones a retos 
 ### Debuggin
