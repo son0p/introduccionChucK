@@ -20,6 +20,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ---
 
 ### Iniciar con ...
-* Mi primer sonido
+* [Mi primer sonido](001miPrimerSonido.ck)
+* [Variar Frecuencia y Ganancia](002variarFrecuenciaGanancia.ck)
 * Manejo del tiempo 
 * Arrays
