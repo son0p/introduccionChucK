@@ -16,3 +16,10 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ### CucK en vivo *live coding*
 ### A quienes seguir
 ### Tutoriales en video
+
+---
+
+### Iniciar con ...
+* Mi primer sonido
+* Manejo del tiempo 
+* Arrays
