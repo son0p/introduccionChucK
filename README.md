@@ -14,6 +14,22 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ### [A quienes seguir](https://github.com/son0p/introduccionChucK#a-quienes-seguir-1)
 ### [Tutoriales en video](https://github.com/son0p/introduccionChucK#tutoriales-en-video-1)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### Iniciar con ...
@@ -22,10 +38,37 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 * [Variar Frecuencia y Ganancia](002variarFrecuenciaGanancia.ck)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### A quienes seguir
 * Un listado de [gente usando ChucK](http://wiki.cs.princeton.edu/index.php/ChucK/Users)
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
