@@ -1,5 +1,4 @@
-
- El lenguaje de programación llamado ChucK es una manera de comunicarse con la computadora para que esta ejecute tareas que principalmente tienen que ver con sonido y música.
+ El lenguaje de programación llamado ChucK es una manera de comunicarse con la computadora para que ésta ejecute tareas que principalmente tienen que ver con sonido y música.
  
   Si ud. quiere hacer un sonido o música que se modifique automáticamente, o que genere infinitas variaciones de melodías y ritmos, ChucK puede ser una buena herramienta para lograrlo.
  
