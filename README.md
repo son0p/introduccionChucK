@@ -11,7 +11,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ### Fortalezas
 ### [Rutinas de estudio](rutinasDeEstudio.md)
 ### [Practicas](practicas.md)
-### A quienes seguir
+### [A quienes seguir](https://github.com/son0p/introduccionChucK#a-quienes-seguir-1)
 ### Tutoriales en video
 
 ---
@@ -20,9 +20,15 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 * [¿Qué #$%^&* es ChucK?](divulgacion.md)
 * [Mi primer sonido](001primerSonido.ck)
 * [Variar Frecuencia y Ganancia](002variarFrecuenciaGanancia.ck)
-* Manejo del tiempo 
-* Arrays
+
+
 ---
 
-### [A quienes seguir]
+### A quienes seguir
 * Un listado de [gente usando ChucK](http://wiki.cs.princeton.edu/index.php/ChucK/Users)
+
+---
+
+### Tutoriales en video
+
+* [ChucK: A Computer Music Programming Language 1:25:04](http://youtu.be/2rpk461T6l4)
