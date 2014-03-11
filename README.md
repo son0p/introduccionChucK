@@ -9,8 +9,8 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 
 ### [Iniciar con ...](https://github.com/son0p/introduccionChucK/blob/master/README.md#iniciar-con--1)
 ### Fortalezas
-### Soluciones a retos 
-### Debuggin
+### [Rutinas de estudio](rutinasDeEstudio.md)
+### [Practicas](practicas.md)
 ### Entornos
 ### Lecturas
 ### CucK en vivo *live coding*
@@ -20,6 +20,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ---
 
 ### Iniciar con ...
+* [¿Qué #$%^&* es ChucK?](divulgacion.md)
 * [Mi primer sonido](001primerSonido.ck)
 * [Variar Frecuencia y Ganancia](002variarFrecuenciaGanancia.ck)
 * Manejo del tiempo 
