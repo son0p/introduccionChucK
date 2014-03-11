@@ -11,9 +11,6 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ### Fortalezas
 ### [Rutinas de estudio](rutinasDeEstudio.md)
 ### [Practicas](practicas.md)
-### Entornos
-### Lecturas
-### CucK en vivo *live coding*
 ### A quienes seguir
 ### Tutoriales en video
 
@@ -25,3 +22,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 * [Variar Frecuencia y Ganancia](002variarFrecuenciaGanancia.ck)
 * Manejo del tiempo 
 * Arrays
+---
+
+### [A quienes seguir]
+* Un listado de [gente usando ChucK](http://wiki.cs.princeton.edu/index.php/ChucK/Users)
