@@ -58,6 +58,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 
 ### A quienes seguir
 * Un listado de [gente usando ChucK](http://wiki.cs.princeton.edu/index.php/ChucK/Users)
+* Preguntas y respuestas sobre ChucK en [Stack Overflow](http://stackoverflow.com/questions/tagged/chuck)
 
 
 
