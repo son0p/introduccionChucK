@@ -12,7 +12,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ### [Rutinas de estudio](rutinasDeEstudio.md)
 ### [Practicas](practicas.md)
 ### [A quienes seguir](https://github.com/son0p/introduccionChucK#a-quienes-seguir-1)
-### Tutoriales en video
+### [Tutoriales en video](https://github.com/son0p/introduccionChucK#tutoriales-en-video-1)
 
 ---
 
