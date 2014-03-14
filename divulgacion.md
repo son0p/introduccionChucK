@@ -9,12 +9,13 @@ Con todo dispuesto le decimos que inicie batiendo los huevos, los ponga en la sa
 Es así como para hacer que nuestra computadora haga música hacemos una lista de tareas, construimos una lógica para que nuestra computadora tome decisiones en situaciones especiales, si pasa eso haga aquello etc.
 
 Vamos a hacer que la computadora genere un sonido, esta tarea es sencilla en ChucK, necesitamos cuatro ingredientes ingredientes:
+
 1. un objeto productor de sonido
 2. una manera de conectarlo a algo
 3. saber donde esta nuestra tarjeta de sonido
 4. que el tiempo transcurra .. pues el sonido sucede cuando el tiempo transcurre. 
 
-El objeto escogido entre muchos que nos pone disponible ChucK es *SinOsc* que cuando el tiempo transcurre produce una onda que suena como un pito o un tono puro.
+El objeto escogido entre muchos que nos pone disponible ChucK es *SinOsc* que cuando el tiempo transcurre produce una onda que suena como un pito o un tono puro, para conectarlo usaremos "=>" y nuestra tarjeta de sonido
  
   ChucK se escribe de manera similar a otros lenguajes de programación, donde se puede leer claramente la lógica (el orden de las tareas a realizar), esto le da una ventaja sobre programas  que usan conexiones gráficas, que a pesar de ser muy legibles en un programa sencillo, se vuelven  ilegibles en programas complejos y es difícil re-usar partes de su código.
  
