@@ -61,6 +61,9 @@ Podemos editar nuestro código y cambiar los valores de `miSonidoVariando.freq`,
 
 Lo que esta sucediendo aquí es que teníamos un objeto predeterminado en ChucK llamado `SinOsc`, le asignamos los atributos de ese objeto a nuestro objeto que llamamos `miSonidoVariado`, nuestro objeto hereda las características y las funciones, dos de las muchas funciones que hereda son `freq` y `gain` que se refieren a Frecuencia y Ganancia respectivamente. Entonces al decir `330 => miSonidoVariado.freq` estamos asignando el valor 330 a la frecuencia de nuestro objeto `miSonidoVariado` que heredo su sonido y características de `SinOsc`.
 
+Algo que hace valioso a ChucK es su capacidad de generar sonidos o música que no ha sido escrita previamente, en el siguiente ejemplo usaremos la funciona matemática Random para crear cambiar aleatoriamente la frecuencia.
+
+[200aleatoriaFrecuencia.ck](200aleatoriaFrecuencia.ck)
 
 
   ChucK se escribe de manera similar a otros lenguajes de programación, donde se puede leer la lógica (el orden de las tareas a realizar), esto le da una ventaja sobre programas  que usan conexiones gráficas, que a pesar de ser muy legibles en un programa sencillo, se vuelven  ilegibles en programas complejos y es difícil re-usar partes de su código.
