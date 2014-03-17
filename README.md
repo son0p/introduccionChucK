@@ -37,6 +37,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 * [Mi primer sonido](001primerSonido.ck)
 * [Variar Frecuencia y Ganancia](002variarFrecuenciaGanancia.ck)
 * [Generar sonidos de manera aleatoria](200aleatoriaFrecuencia.ck)
+* [Leer un array](300arrayTonos.ck)
 
 
 
