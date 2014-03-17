@@ -34,7 +34,7 @@ $ chuck iniciando.ck
 
 
 
-Lo que hicimos aquí fue traer un generador que viene por defecto llamado `SinOsc`, le asignamos las propiedades de ese generador a un objeto propio que vamos a manipular que llamamos `miSonido` (podría llamarse "pito", "onda", "sin", "s", en fin cualquiern nombre) y conectamos `miSonido` a la tarjeta de sonido, en la siguiente línea hicimos que el tiempo `now`  transcurriera durante 30 segundos. 
+Lo que hicimos aquí fue traer un generador que viene por defecto llamado `SinOsc`, le asignamos las propiedades de ese generador a un objeto propio que vamos a manipular que llamamos `miSonido` (podría llamarse "pito", "onda", "sin", "s", en fin cualquier nombre) y conectamos `miSonido` a la tarjeta de sonido, en la siguiente línea hicimos que el tiempo `now`  transcurriera durante 30 segundos. 
 
 Avancemos un poco, creemos un nuevo archivo llamado *avanzando.ck* y adentro copiemos lo siguiente:
 
@@ -56,10 +56,10 @@ Ahora ejecutemos nuestro nuevo ejemplo con:
 $ chuck avanzando.ck
 ```
 
-Podemos editar nuestro código y cambiar los valores de `miSonidoVariando.freq`, intente cambiar el numero 330 por 440, por 2000 quizá 100 o por numeros que se le ocurran.
+Podemos editar nuestro código y cambiar los valores de `miSonidoVariando.freq`, intente cambiar el numero 330 por 440, por 2000 quizá 100 o por números que se le ocurran.
 `miSonidoVariando.gain` también puede ser cambiado por valores entre 0 y 1.
 
-Lo que esta sucediendo aquí es que teníamos un objeto predeterminado en ChucK llamado `SinOsc`, le asignamos los atributos de ese objeto a nuetro objeto que llamamos `miSonidoVariado`, nuestro objeto hereda las caracteristicas y las funciones, dos de las muchas funciones que hereda son `freq` y `gain` que se refiren a Frecuencia y Ganancia respectivamente. Entonces al decir `330 => miSonidoVariado.freq` estamos asignando el valor 330 a la frecuencia de nuetro objeto `miSonidoVariado` que heredo su sonido y caracteristicas de `SinOsc`.
+Lo que esta sucediendo aquí es que teníamos un objeto predeterminado en ChucK llamado `SinOsc`, le asignamos los atributos de ese objeto a nuestro objeto que llamamos `miSonidoVariado`, nuestro objeto hereda las características y las funciones, dos de las muchas funciones que hereda son `freq` y `gain` que se refieren a Frecuencia y Ganancia respectivamente. Entonces al decir `330 => miSonidoVariado.freq` estamos asignando el valor 330 a la frecuencia de nuestro objeto `miSonidoVariado` que heredo su sonido y características de `SinOsc`.
 
 
 
