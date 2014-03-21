@@ -1,6 +1,10 @@
- El lenguaje de programación llamado ChucK es una manera de comunicarse con la computadora para que ésta ejecute tareas que principalmente tienen que ver con sonido y música.
+ El lenguaje de programación ChucK permite generar musica o sonidos usando matemática, puede variar según el ambiente, y nos permite convertir en sonido una serie de datos que varían ej: el precio del dolar.
  
-  Si ud. quiere hacer un sonido o música que se modifique automáticamente, o que genere infinitas variaciones de melodías y ritmos, ChucK puede ser una buena herramienta para lograrlo.
+
+Algunas músicas tribales se tocan como se juega seguimiento, el grupo va repitiendo un pedazo de música hasta que el líder hace una seña y pasan a otro pedazo de música.
+El lider puede hacer la seña motivado por algo que suceda en el entorno, el paso de un pájaro, un recuerdo triste, la caída de una escoba.
+En ChucK se pueden escribir rutinas que se van repitiendo y modificando según unas condiciones en contraste a la música que es compuesta en una partitura o grabación que siempre suena igual.
+Hacer música para un videojuego sería un caso donde ChucK podría ser de gran ayuda.
 
 ¿Cómo se puede hacer música escribiendo ordenes en un computador?
 Supongamos que tenemos un robot muy obediente y queremos que haga un desayuno, le ordenamos al robot que traiga los elementos que necesita para hacer el desayuno, huevos, mantequilla, pan, jugo.
