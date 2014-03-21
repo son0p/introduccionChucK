@@ -6,6 +6,16 @@ El lider puede hacer la seña motivado por algo que suceda en el entorno, el pas
 En ChucK se pueden escribir rutinas que se van repitiendo y modificando según unas condiciones en contraste a la música que es compuesta en una partitura o grabación que siempre suena igual.
 Hacer música para un videojuego sería un caso donde ChucK podría ser de gran ayuda.
 
+[(Aquí un sonido usando matemática)](003matematicaSimple.ck)
+
+
+
+
+
+---
+
+
+
 ¿Cómo se puede hacer música escribiendo ordenes en un computador?
 Supongamos que tenemos un robot muy obediente y queremos que haga un desayuno, le ordenamos al robot que traiga los elementos que necesita para hacer el desayuno, huevos, mantequilla, pan, jugo.
 También debe traer algunas herramientas como el sartén, cuchillo, licuadora, vaso.
