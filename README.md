@@ -62,6 +62,9 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ---
 
 ### A quienes seguir
+* @gewang
+* @TweecKs
+* @toplaporg
 * Un listado de [gente usando ChucK](http://wiki.cs.princeton.edu/index.php/ChucK/Users)
 * Foro de usuarios no-oficial en [electro-music](http://electro-music.com/forum/forum-140.html)
 * Preguntas y respuestas sobre ChucK en [Stack Overflow](http://stackoverflow.com/questions/tagged/chuck)
