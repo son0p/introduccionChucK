@@ -11,6 +11,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ### Fortalezas
 ### [Rutinas de estudio](rutinasDeEstudio.md)
 ### [Practicas](practicas.md)
+### [Ejemplos de código](https://github.com/son0p/introduccionChucK#ejemplos-de-c%C3%B3digo-1)
 ### [A quienes seguir](https://github.com/son0p/introduccionChucK#a-quienes-seguir-1)
 ### [Tutoriales en video](https://github.com/son0p/introduccionChucK#tutoriales-en-video-1)
 
@@ -47,8 +48,10 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 
 
 
+---
 
-
+### Ejemplos de código
+* [ChucKScripts](https://github.com/zeffii/ChucKScripts)
 
 
 
@@ -60,6 +63,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 
 ### A quienes seguir
 * Un listado de [gente usando ChucK](http://wiki.cs.princeton.edu/index.php/ChucK/Users)
+* Foro de usuarios no-oficial en [electro-music](http://electro-music.com/forum/forum-140.html)
 * Preguntas y respuestas sobre ChucK en [Stack Overflow](http://stackoverflow.com/questions/tagged/chuck)
 
 
