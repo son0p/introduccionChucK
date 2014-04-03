@@ -51,7 +51,8 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 
 ### Ejemplos de código
 * [ChucKScripts](https://github.com/zeffii/ChucKScripts)
-
+* [Programas en ChucK](http://wiki.cs.princeton.edu/index.php/ChucK/Programs)
+* [ChucK en Rosetta code](http://rosettacode.org/wiki/ChucK)
 
 
 
