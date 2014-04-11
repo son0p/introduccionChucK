@@ -1,9 +1,9 @@
  El lenguaje de programación ChucK permite generar musica o sonidos usando matemática, puede variar según el ambiente, y nos permite convertir en sonido una serie de datos que varían ej: el precio del dolar.
  
 
-Algunas músicas tribales se tocan como se juega seguimiento, el grupo va repitiendo un pedazo de música hasta que el líder hace una seña y pasan a otro pedazo de música.
-El lider puede hacer la seña motivado por algo que suceda en el entorno, el paso de un pájaro, un recuerdo triste, la caída de una escoba.
-En ChucK se pueden escribir rutinas que se van repitiendo y modificando según unas condiciones en contraste a la música que es compuesta en una partitura o grabación que siempre suena igual.
+Algunas músicas ancestrales se contruyen repitiendo un pedazo de música (patrón) hasta que el líder hace una seña y pasan a otro pedazo de música.
+El lider puede hacer la seña motivado por algo que suceda en el entorno, el paso de un pájaro, un recuerdo triste, la llegada del amanecer.
+En ChucK se pueden escribir rutinas que se van repitiendo y modificando según unas condiciones. En contraste a la música que es compuesta en una partitura o grabación y que intenta sonar siempre igual, ChucK puede crear condiciones para una música llena de variaciones aleatorias y que pueden reaccionar a sensores.
 Hacer música para un videojuego sería un caso donde ChucK podría ser de gran ayuda.
 
 [(Aquí un sonido usando matemática)](003matematicaSimple.ck)
