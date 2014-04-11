@@ -1,4 +1,4 @@
- El lenguaje de programación ChucK permite generar musica o sonidos usando matemática, puede variar según el ambiente, y nos permite convertir datos en sonido, ej: hacer sonidos con palabras de twitter.
+ El lenguaje de programación ChucK permite generar musica o sonidos usando matemática, puede variar según el ambiente, y nos permite convertir datos en sonido, ej: usar datos de la aparición del hashtag #música en twitter para hacer sonidos.
  
 
 Algunas músicas ancestrales se contruyen repitiendo un pedazo de música (patrón) hasta que el líder hace una seña y pasan a otro pedazo de música.
@@ -8,18 +8,16 @@ ChucK es una potente herramienta para arte sonoro, música generativa, bandas so
 
 
 La relación entre sonido y matemáticas es natural para un racionalista, sin embargo, podria ser algo inusual para en una cultura que asocia al músico creador con la inspiración espontánea, o la expresión de sus sentimientos.
-Tomaremos una actitud prudente para ilustrar la participación de la matemática en un ejercicio musical: 
-
-[(Aquí un sonido que varía segun unas condiciones matemáticas)](003matematicaSimple.ck)
-
+Tomaremos una actitud prudente para ilustrar la participación de la matemática en un ejercicio musical: [(Aquí un sonido que varía segun unas condiciones matemáticas)](003matematicaSimple.ck)
 Como podemos escuchar en esta pieza de corta vida, una multiplicación nos permite variar las octavas.
 
-Agreguemos un poco de fuerza a nuestro vocabulario de programación y veamos un ejemplo mas enriquecido.
 
-[(007bacterialSunset)](007bacterialSunset.ck)
+Agreguemos un poco de fuerza a nuestro vocabulario de programación y veamos un ejemplo mas enriquecido:
+[(007bacterialSunset.ck)](007bacterialSunset.ck)
+La palabra "control" puede, de echo, tener una gran empatía con la matemática, entonces queda abierta la posibilidad de controlar cualquier cualidad del sonido con matemática.
 
 
-
+En el dominio de la música que reacciona al entorno mediante sensores, en el cual la emoción se deriva de "escucuchar" como cambia la música ante un evento que vemos o sentimos, traemos esta circustancia donde una melodía en modo menor se ve obligada a cambiar a modo mayor al aumento de la luz percibida por un sensor de luz llamado fotocelda.
 [(Variación de un sonido según la luz)](400reaccionaSerial.ck)
 
 [(Sonificación de un Hashtag de Twitter)](https://vimeo.com/81179236)
