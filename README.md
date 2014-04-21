@@ -90,7 +90,7 @@ correspondence between code structure, time, and
 audio building blocks; as a result, the language is
 increasingly being used a teaching tool in computer
 music programs, including at Princeton, Stanford,
-Georgia Tech, and CalArts.
+Georgia Tech, and CalArts..
 
 • Modularity: Like many other languages, ChucK
 encapsulates behaviors of synthesis building blocks
