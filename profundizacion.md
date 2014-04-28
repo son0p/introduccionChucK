@@ -1,3 +1,17 @@
+# ChucK
+
+"Un programa es una secuencia de instrucciones para un computador. Un lenguaje de programación es una colección de reglas semánticas y sintácticas para especificar esas instrucciones." GeWang
+
+Los lenguajes de programación son la interfáz mas fundamental y duradera que ha sido diseñada para generar instrucciones a una computadora.
+
+La programación para audio, tanto en investigación acústica, como en composicón y presentación  musical, requiere rápida experimentación, verificación, de ideas y aproximaciones, que es realizada a travez de prototipos, tanto de corto como largo plazo.
+Se puede obtener gran beneficio al tener la habilidad de modificar, o incluso crear, partes del sistema de software "en vivo" a medida que se ejecuta.
+Los creadores de ChucK creen que el prototipaje rápido en sí mismo, es una aproximación  particularmente útil a la programación de audio, ayudando a encontrar diferentes maneras de pensar acerca de los problemas.
+
+El diseño del lenguaje de programación ChucK apunta a programación expresiva, prototipaje rápido, legibilidad.
+
+Otras motivaciones son: proveer nuevas herramientas para la ciencia de la computación, pedagogía de musica por computadora, y explorar nuevos paradigmas musicales.
+
 
 
 
@@ -75,3 +89,8 @@ Algo que hace valioso a ChucK es su capacidad de generar sonidos o música que n
   En nuestro contexto hay un crecimiento de la cultura de la programación, grupos como MedellinJS atraen jóvenes interesados en aprender de programación, muchos de ellos están concentrados en desarrollar sitios web o aplicaciones móviles y videojuegos, creemos que  ChucK puede ser una  herramienta poderosa para programar el aspecto musical y sonoro de las aplicaciones móviles, videojuegos, e instalaciones sonoras.
  
   Artistas como Kaziuz y Aeromostra estan profundizando en el uso de ChucK en sus proyectos.
+
+
+Bibliogrfía:
+
+"The ChucK Audio Programming Language 'A Strongly-Timed and On-the-fly Environ/mentality'" Ge Wang
