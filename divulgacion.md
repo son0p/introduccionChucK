@@ -10,6 +10,8 @@ Agreguemos un poco de fuerza a nuestro vocabulario de programación y veamos un 
 [(007bacterialSunset.ck)](007bacterialSunset.ck)
 La palabra "control" puede, de echo, tener una gran empatía con la matemática, entonces queda abierta la posibilidad de controlar cualquier cualidad del sonido con matemática.
 
+Un sistema reactivo mantiene una interacción permanente con su entorno, un ejemplo típico puede ser los sistemas de control de tráfico aéreo. [1]
+
 
 En el dominio de la música que reacciona al entorno mediante sensores, en el cual la emoción se deriva de "escucuchar" como cambia la música ante un evento que vemos o sentimos, traemos esta circustancia donde una melodía en modo menor se ve obligada a cambiar a modo mayor al aumento de la luz percibida por un sensor de luz llamado fotocelda.
 [(Variación de un sonido según la luz)](400reaccionaSerial.ck)
@@ -23,5 +25,30 @@ ChucK es una potente herramienta para arte sonoro, música generativa, bandas so
 [(Sonificación de un Hashtag de Twitter)](https://vimeo.com/81179236)
 
 
+Existen otros lenguajes como Pd, SuperCollider, Csound etc.
+
+La mayoría de tareas de sintesis y música pueden ser realizadas por cualquiera de estos lenguajes, pero ciertos tipos de tareas pueden lograrse más fácilmente en un que en otro, esto nos pone en la idea del lenguaje de programación como "una manera de pensar".
+
+Alan Perlis alguna vez dijo "no vale la pena aprender un lenguaje de programación que no cambie su manera de pensar". 
+Uno de los benficios importantes de ChucK es su capacidad de ayudarnos a pensar, de manera diferente, los retos a que se enfrenta el compositor o investigador sonoro.
+Programar sonido y música desde una perspectiva humana, mas que adaptar al humano al diseño de la máquina.[1]
 
 
+
+
+Adicionalmente, ChucK ofrece una aproximación al "código en vivo", donde el programador esta habilitado para desarrollar/probar/prototipar programas en vivo. Éste estilo de programación nos lleva a presentaciones donde la audiencia observa el "codigo en vivo" como gestos musicales.
+
+Código == Intrumento musical
+
+Un aspecto central de la solución, que provee ChucK es exponer control programable sobre el tiempo en cooperación con un modelo de programación simultánea basada en tiempo.
+
+Tratemos de entender esto: hace que el tiempo sea computable y directamente controlable, aún mas, el programador puede especificar modulos de código, cada uno de los cuales controla independientemente sus computaciones en el tiempo pero también puede ser sincromnizado a otro módulos.
+
+En general una herramienta es útil si hace al menos una tarea mejor que cualquier otra herramienta (por ejemplo, el martillo, o el destornillador).
+
+
+
+
+---
+
+[1] "The ChucK Audio Programming Language 'A Strongly-Timed and On-the-fly Environ/mentality'" Ge Wang
