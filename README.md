@@ -13,7 +13,7 @@ Su estructura esta inspirada (copiada) de:http://jstherightway.org/
 ### [Ejemplos de código](https://github.com/son0p/introduccionChucK#ejemplos-de-c%C3%B3digo-1)
 ### [A quienes seguir](https://github.com/son0p/introduccionChucK#a-quienes-seguir-1)
 ### [Tutoriales en video](https://github.com/son0p/introduccionChucK#tutoriales-en-video-1)
-### [Fortalezas]()
+### [Fortalezas](https://github.com/son0p/introduccionChucK#fortalezas-1)
 
 
 

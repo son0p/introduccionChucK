@@ -9,9 +9,14 @@ Como podemos escuchar en esta pieza de corta vida, una multiplicación nos permi
 Agreguemos un poco de fuerza a nuestro vocabulario de programación y veamos un ejemplo mas enriquecido:
 [(007bacterialSunset.ck)](007bacterialSunset.ck)
 La palabra "control" puede, de echo, tener una gran empatía con la matemática, entonces queda abierta la posibilidad de controlar cualquier cualidad del sonido con matemática.
-
 Un sistema reactivo mantiene una interacción permanente con su entorno, un ejemplo típico puede ser los sistemas de control de tráfico aéreo. [1]
 
+<<<<<<< HEAD
+Un sistema reactivo mantiene una interacción permanente con su entorno, un ejemplo típico puede ser los sistemas de control de tráfico aéreo. [1]
+
+=======
+Una de las ventajas de ChucK es poder modificar el programa en vivo (mientras suena) veamos como alteramos valores de nuestro ejemplo e inyectamos el nuevo código si detener el programa anterior.
+>>>>>>> 0ac29b82cf215e1d03c5d8846cb2e029cdf1c27c
 
 En el dominio de la música que reacciona al entorno mediante sensores, en el cual la emoción se deriva de "escucuchar" como cambia la música ante un evento que vemos o sentimos, traemos esta circustancia donde una melodía en modo menor se ve obligada a cambiar a modo mayor al aumento de la luz percibida por un sensor de luz llamado fotocelda.
 [(Variación de un sonido según la luz)](400reaccionaSerial.ck)
