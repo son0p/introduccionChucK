@@ -1,5 +1,4 @@
  El lenguaje de programación ChucK permite generar musica o sonidos usando matemática, puede variar según el ambiente, y nos permite convertir datos en sonido, ej: usar datos de la aparición del hashtag #música en twitter para hacer sonidos.
- 
 
 La relación entre sonido y matemáticas es natural para un racionalista, sin embargo, podria ser algo inusual para en una cultura que asocia al músico creador con la inspiración espontánea, o la expresión de sus sentimientos.
 Tomaremos una actitud prudente para ilustrar la participación de la matemática en un ejercicio musical: [(Aquí un sonido que varía segun unas condiciones matemáticas)](003matematicaSimple.ck)
