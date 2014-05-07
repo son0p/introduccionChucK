@@ -2,6 +2,10 @@
 
 para explicar variables puedo usar el concepto de contenedores porta comida. porta ropa, porta zapatos, porta herramientas. y los tipos es crear el portador... 
 
+!!programar el paso del tiempo
+razonar acerca del tiempo en el código
+
+
 
 int, float, dur
 

@@ -12,6 +12,34 @@ El diseño del lenguaje de programación ChucK apunta a programación expresiva,
 
 Otras motivaciones son: proveer nuevas herramientas para la ciencia de la computación, pedagogía de musica por computadora, y explorar nuevos paradigmas musicales.
 
+## Representar datos complejos
+ChucK tiene tipos primitivos para representar datos complejos.
+Datos complejos compuestos de : reales e imaginarios o `magnitud y fase`.
+
+## Arrays
+- pueden ser indexados por enteros.
+- un array puede ser usado como un `mapa asociativo`, indexado por cadenas.
+Son Objetos y se comportan como tales bajo `asignación de referencia` y otras operaciones comunes a los objetos.
+
+# Tiempo
+El tiempo solo avanza manipulando explicitamente __now__.
+
+En ChucK __time__ representa un punto absoluto en el tiempo (desde el inicio del tiempo de ChucK), y __dur__ representa una duración.
+
+```java
+// un segundo de duración
+1::second => dur foo;
+
+// un punto en el tiempo
+now + foo => time later;
+
+```
+
+# Concurrencia
+Shreds (procesos paralelos) de diferentes archivos pueden compartir datos (incluso eventos). Esto se puede lograr a travez de una clase pública, con variables estáticas y functiones.
+
+# Línea de comando
+Un argumento es especificado adicionando el caracter dos puntos (:) al nombre del programa de ChucK que debe recibir ese argumento, seguido de la lista de argumentos.
 
 
 

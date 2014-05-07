@@ -37,7 +37,9 @@ Adicionalmente, ChucK ofrece una aproximación al "código en vivo", donde el pr
 
 Código == Intrumento musical
 
-Un aspecto central de la solución, que provee ChucK es exponer control programable sobre el tiempo en cooperación con un modelo de programación simultánea basada en tiempo.
+Un aspecto central de la solución que provee ChucK es exponer control programable sobre el tiempo en cooperación con un modelo de programación paralela basada en tiempo.
+
+En ChucK siempre se escribe código en animación suspendida, es decir, el tiempo en ChucK no cambia a no ser que el programador lo avance explícitamente.
 
 Tratemos de entender esto: hace que el tiempo sea computable y directamente controlable, aún mas, el programador puede especificar modulos de código, cada uno de los cuales controla independientemente sus computaciones en el tiempo pero también puede ser sincromnizado a otro módulos.
 

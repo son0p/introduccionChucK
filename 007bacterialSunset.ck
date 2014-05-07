@@ -1,6 +1,6 @@
 //----------------------
-// Assignment_2_bacterial_sunset
-//------------fast melodies playground
+// Bacterial Sunset Modo patrones
+//
 //-------------------------------------------
 
 
@@ -17,7 +17,7 @@ SinOsc sin => dac;
 Noise n =>  Pan2 q =>dac;
 
 // main gain for fadeins and fadeouts, initializing main gain variable
-0.0 => float mainGain;
+0.5 => float mainGain;
 
 
 //  SawOsc notes
@@ -50,13 +50,6 @@ while (count < 189)
     mainGain * 0.3 => sin.gain;
     mainGain * 0 => n.gain;
 
-
-    // fade in
-    while ( count < 10)
-      {
-	0.09 * count => mainGain;
-	break;
-      }
     
      
     //----------
