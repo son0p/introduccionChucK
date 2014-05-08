@@ -13,7 +13,7 @@ SawOsc s => NRev r => dac;
 
 
 // asignación de variables
-420 => float fr;
+9 => float fr;
 int oldNote;
 int pushNote;
 int notes[7];
@@ -41,17 +41,19 @@ while(true)
 	// audio conditionals
 	if (fr > 10)
 	{
-		for(0 => int i; i < 7; i++)
-		{
-			notesIonian[Math.random2(0, 7)] => oldNote;
-			Std.mtof(oldNote) => s.freq;
-			0.25::second => now;
-			<<< "Jonico", oldNote >>>;
-		}
-		
-	
-	
+		notesIonian[Math.random2(0, 7)] => oldNote;
+		Std.mtof(oldNote) => s.freq;
+		0.25::second => now;
+		<<< "Jonico", oldNote >>>;
 	}
+
+	if (fr < 10)
+	{
+		notesDorian[Math.random2(0, 7)] => oldNote;
+		Std.mtof(oldNote) => s.freq;
+		0.25::second => now;
+		<<< "Dorico", oldNote >>>;
+	}	
 	count++;
 }
 
