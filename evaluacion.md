@@ -98,3 +98,10 @@ fantasear con el poder del sofware.
 
 ### Percepción sobre la duración:
 
+
+
+
+## Conclusiones sobre la charla de Fede: Introducción a chuck.
+
+-> El lenguaje de programación chuck siempre me a pareció algo complejo, pues funciona distinto en cuanto a la sintaxis de otros lenguajes; un ejemplo de ello es que las variables son declaradas a la derecha, caso contrario a los demás lenguajes donde las variables son declaradas a la izqueirda.
+
