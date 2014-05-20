@@ -1,5 +1,14 @@
-matemática entonces podría ilustrarlo con que todos tocaran redondas en palmas, y que uno de los chicos fuera el operador multiplicar por dos, y cuando el sonido pase por él los siguientes golpes sean en negras, luego corcheas etc.
 
-mi otro valor es reaccionar al entorno..según condiciones .. podría a algunos a hacer condiciones (estar parado, sentado)  y que de acuerdo a eso se varíara un patrón básico de todos en palmas y voces.
 
-mi tercer concepto es cambiar la manera de pensar con respecto al tiempo, haría que todos suenen solo cuando un profe de un paso .. si da el paso largo suena largo si es corto corto .. etc.
+### Música afectada por matemática
+Hay un pulso que sincroniza a todos los participantes.
+Asignamos grupos de 4 personas, cada grupo tiene tres sonoridades y un operador matemático, inicialmente usamos multiplicación y división.
+Según el pulso los sonidos van pasando por cada integrante y cuando pasan por el operador se multiplican o dividen.
+Se pueden cambiar los operadores de puesto para lograr cambios en diferentes momentos del compás.
+
+ 
+### Música que reacciona al entorno
+Con voces hacemos melodías mayores y nombramos un sensor, podemos dibujar una raya en el piso o algo que nos de la idea de umbral, cuando el sensor traspase el umbral las melodías cambian a menor.
+
+### Sonidos en animación suspendida
+
